@@ -1,0 +1,15 @@
+{
+    "manufacturer": "Custom",
+    "maintainer": "LuisCardoso",
+    "url": "",
+    "usb": {
+        "vid": "0x4653",
+        "device_version": "4.1.0"
+    },
+    "split": {
+        "enabled": true
+    },
+    "build": {
+        "lto": true
+    }
+}
